@@ -2,6 +2,7 @@
 # IntelliJ IDEA Project files
 .idea
 *.iml
+*/*.iml
 *.ipr
 *.iws
 out
@@ -44,5 +45,3 @@ Thumbs.db
 *.zip
 *.tar.gz
 *.rar
-
-
